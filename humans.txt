@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Michael Wolf -- Programming -- pharesim@protonmail.com
+    Alexander Drichel -- Graphics and Design -- alexander@drichel.com
+    Marlies Wiegand -- Texting and scientific consulting -- wiegand@leuphana.de
+
+# THANKS
+
+    Jenny
+    Niko
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
